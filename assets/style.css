@@ -1,0 +1,26 @@
+body { 
+    background-image:url('https://i.pinimg.com/originals/ae/f7/ec/aef7ec60aaa377e3a6406adf730512a4.gif');
+    -webkit-transition: background-image 5s;
+    background-size: cover;
+    height:auto;
+    background-repeat: no-repeat;
+    
+}
+
+.buttonFree {
+display:flex;
+align-items: center;
+justify-content: center;
+margin:auto;
+width: 400px;
+height: 400px;
+border-radius: 100%;
+margin-top:10%;
+border:#700000 10px solid;
+background-color: red;
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:white;
+font-weight: bolder;
+text-shadow: 10px black;
+}
